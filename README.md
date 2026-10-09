@@ -94,19 +94,19 @@ php artisan make:model Mahasiswa -m
 ## Screenshots
 
 ### Welcome Page (Laravel)
-![Welcome](screenshots/welcome.jpeg)
+![Welcome](screenshots/Welcome.jpeg)
 
 ### Database phpMyAdmin
-![Database](screenshots/database.jpeg)
+![Database](screenshots/Database.jpeg)
 
 ### Perintah Artisan
-![Artisan](screenshots/artisan.jpeg)
+![Artisan](screenshots/Artisan.jpeg)
 
 ### Halaman Home
-![Home](screenshots/home.jpeg)
+![Home](screenshots/Home.jpeg)
 
 ### Halaman About
-![About](screenshots/about.jpeg)
+![About](screenshots/About.jpeg)
 
 ### Halaman Contact
-![Contact](screenshots/contact.jpeg)
+![Contact](screenshots/Contact.jpeg)
