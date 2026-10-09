@@ -91,7 +91,7 @@ php artisan make:model Mahasiswa -m
 | `artisan` | Perintah CLI Laravel |
 | `composer.json` | Daftar dependency project |
 
-## Screenshot
+## Screenshots
 
 ### Welcome Page (Laravel)
 ![Welcome](screenshots/welcome.jpeg)
